@@ -1,16 +1,17 @@
-## Hi there 👋
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-<!--
-**dweob/dweob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mG8EZoV61hMFK4EEACIDAwQRdhiuinPPd3MUEmOXsaUY02Bapc4oRz/ubXCZa0gc
+YXI+dOX8oqjKpy5c6lm3OzAsolDoFf0TgAu5OxRtw9pTN6NBwlfWULkzyQnkAb+c
+Fy/aE+J28LVk2tc48s/4IC+0DGR3ZW9iIChtYWluKYizBBMTCQA7FiEEzwcW8lt3
+h1z3ZDNWIFMkr2VtxJAFAmaFetYCGwMFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcC
+F4AACgkQIFMkr2VtxJCuDgGA03GkUIstbdq8RBus8jFFokiWCNbZOvdOtuACX2Rz
++MNek0sTSxgY0Kl3UgTOgFATAX9eXS2eGS8CFCRqpERFjX71oa7GZlK1/3oMDz1p
+tLst6yvzXa3vFPXg6zod7UN8Gmi4cwRmhXrWEgUrgQQAIgMDBNwiySWx2AppTos0
+uSwIeMEPUU0tsqRZCD/rcKGKHNdUq/21rXwdpfJ5AfPkUfYXgHUcnEuu/T8+Je4k
+rGlxfSi/61NLLrOnnrtjQEyr4lIpf3fHCo27X8I+rftUZ/89NAMBCQmImAQYEwkA
+IBYhBM8HFvJbd4dc92QzViBTJK9lbcSQBQJmhXrWAhsMAAoJECBTJK9lbcSQQjUB
+gIcqXQCV318bEyYs8Gf9oZE+fJcxknuexWzWALZpnYqDTpLiFEvM7bqpg4g5oNxJ
+ywF9HJh8Cey7yexlNTY2/xVDWtvHE0KHa4xn74CodC23TgqMZS7FMMQ+9v6POnXc
+unrE
+=Fj5Z
+-----END PGP PUBLIC KEY BLOCK-----
